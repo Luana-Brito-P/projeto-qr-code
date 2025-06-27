@@ -1,7 +1,6 @@
 Luana Brito da Silva Pinto
 Estudante de TI
 18 anos
-<hr>
 
 Realização de projetos individuais utilizando conteúdos como:
 - HTML5 Semântico
